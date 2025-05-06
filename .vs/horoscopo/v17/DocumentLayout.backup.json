@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan Camperchioli\\Documents\\Sistemas Inform\u00E1ticos\\Programming\\Lenguajes\\vb.NET\\projects\\horoscopo\\sources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B92A93D-A8C5-4DFB-AACB-6330FF5886FC}|horoscopo.vbproj|c:\\users\\ivan camperchioli\\documents\\sistemas inform\u00E1ticos\\programming\\lenguajes\\vb.net\\projects\\horoscopo\\sources\\formastrologicalchart.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8B92A93D-A8C5-4DFB-AACB-6330FF5886FC}|horoscopo.vbproj|solutionrelative:formastrologicalchart.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B92A93D-A8C5-4DFB-AACB-6330FF5886FC}|horoscopo.vbproj|c:\\users\\ivan camperchioli\\documents\\sistemas inform\u00E1ticos\\programming\\lenguajes\\vb.net\\projects\\horoscopo\\sources\\services\\httpservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8B92A93D-A8C5-4DFB-AACB-6330FF5886FC}|horoscopo.vbproj|solutionrelative:services\\httpservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B92A93D-A8C5-4DFB-AACB-6330FF5886FC}|horoscopo.vbproj|c:\\users\\ivan camperchioli\\documents\\sistemas inform\u00E1ticos\\programming\\lenguajes\\vb.net\\projects\\horoscopo\\sources\\formmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8B92A93D-A8C5-4DFB-AACB-6330FF5886FC}|horoscopo.vbproj|solutionrelative:formmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAstrologicalChart.vb",
+              "DocumentMoniker": "C:\\Users\\Ivan Camperchioli\\Documents\\Sistemas Inform\u00E1ticos\\Programming\\Lenguajes\\vb.NET\\projects\\horoscopo\\sources\\FormAstrologicalChart.vb",
+              "RelativeDocumentMoniker": "FormAstrologicalChart.vb",
+              "ToolTip": "C:\\Users\\Ivan Camperchioli\\Documents\\Sistemas Inform\u00E1ticos\\Programming\\Lenguajes\\vb.NET\\projects\\horoscopo\\sources\\FormAstrologicalChart.vb",
+              "RelativeToolTip": "FormAstrologicalChart.vb",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAQwHAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T23:01:16.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.vb",
+              "DocumentMoniker": "C:\\Users\\Ivan Camperchioli\\Documents\\Sistemas Inform\u00E1ticos\\Programming\\Lenguajes\\vb.NET\\projects\\horoscopo\\sources\\FormMain.vb",
+              "RelativeDocumentMoniker": "FormMain.vb",
+              "ToolTip": "C:\\Users\\Ivan Camperchioli\\Documents\\Sistemas Inform\u00E1ticos\\Programming\\Lenguajes\\vb.NET\\projects\\horoscopo\\sources\\FormMain.vb",
+              "RelativeToolTip": "FormMain.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T22:58:00.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HTTPService.vb",
+              "DocumentMoniker": "C:\\Users\\Ivan Camperchioli\\Documents\\Sistemas Inform\u00E1ticos\\Programming\\Lenguajes\\vb.NET\\projects\\horoscopo\\sources\\services\\HTTPService.vb",
+              "RelativeDocumentMoniker": "services\\HTTPService.vb",
+              "ToolTip": "C:\\Users\\Ivan Camperchioli\\Documents\\Sistemas Inform\u00E1ticos\\Programming\\Lenguajes\\vb.NET\\projects\\horoscopo\\sources\\services\\HTTPService.vb",
+              "RelativeToolTip": "services\\HTTPService.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T22:57:34.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

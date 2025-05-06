@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan Camperchioli\\Documents\\Sistemas Inform\u00E1ticos\\Estudios actuales\\ESBA\\2 Cuatrimestre\\Programaci\u00F3n Visual - Carina Quiroga\\TP\\Hor\u00F3scopo\\sources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ivan Camperchioli\\Documents\\Sistemas Inform\u00E1ticos\\Estudios actuales\\ESBA\\2 Cuatrimestre\\Programaci\u00F3n Visual - Carina Quiroga\\TP\\Hor\u00F3scopo\\sources\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ivan Camperchioli\\Documents\\Sistemas Inform\u00E1ticos\\Estudios actuales\\ESBA\\2 Cuatrimestre\\Programaci\u00F3n Visual - Carina Quiroga\\TP\\Hor\u00F3scopo\\sources\\horoscopo.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:horoscopo.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Ivan Camperchioli\\Documents\\Sistemas Inform\u00E1ticos\\Estudios actuales\\ESBA\\2 Cuatrimestre\\Programaci\u00F3n Visual - Carina Quiroga\\TP\\Hor\u00F3scopo\\sources\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Ivan Camperchioli\\Documents\\Sistemas Inform\u00E1ticos\\Estudios actuales\\ESBA\\2 Cuatrimestre\\Programaci\u00F3n Visual - Carina Quiroga\\TP\\Hor\u00F3scopo\\sources\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-29T00:13:44.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "horoscopo.vbproj",
+              "DocumentMoniker": "C:\\Users\\Ivan Camperchioli\\Documents\\Sistemas Inform\u00E1ticos\\Estudios actuales\\ESBA\\2 Cuatrimestre\\Programaci\u00F3n Visual - Carina Quiroga\\TP\\Hor\u00F3scopo\\sources\\horoscopo.vbproj",
+              "RelativeDocumentMoniker": "horoscopo.vbproj",
+              "ToolTip": "C:\\Users\\Ivan Camperchioli\\Documents\\Sistemas Inform\u00E1ticos\\Estudios actuales\\ESBA\\2 Cuatrimestre\\Programaci\u00F3n Visual - Carina Quiroga\\TP\\Hor\u00F3scopo\\sources\\horoscopo.vbproj",
+              "RelativeToolTip": "horoscopo.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-09-28T02:11:44.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\horoscopo\obj\Debug\horoscopo.exe
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\horoscopo\obj\Debug\horoscopo.xml
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\horoscopo\obj\Debug\horoscopo.pdb
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\horoscopo\bin\Debug\horoscopo.exe
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\horoscopo\bin\Debug\horoscopo.pdb
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\horoscopo\bin\Debug\horoscopo.xml
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\horoscopo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\horoscopo\obj\Debug\predicciones.Form1.resources
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\horoscopo\obj\Debug\predicciones.Resources.resources
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\horoscopo\obj\Debug\horoscopo.vbproj.GenerateResource.Cache
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\sources\obj\Debug\horoscopo.exe
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\sources\obj\Debug\horoscopo.xml
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\sources\obj\Debug\horoscopo.pdb
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\sources\bin\Debug\horoscopo.exe
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\sources\bin\Debug\horoscopo.pdb
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\sources\bin\Debug\horoscopo.xml
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\sources\obj\Debug\predicciones.Resources.resources
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\sources\obj\Debug\horoscopo.vbproj.GenerateResource.Cache
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\sources\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\sources\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\sources\obj\Debug\horoscopo.vbproj.AssemblyReference.cache
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\sources\obj\Debug\horoscopo.vbproj.CoreCompileInputs.cache
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\sources\obj\Debug\horoscopo.vbproj.Up2Date
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\sources\obj\Debug\predicciones.FormAstrologicalChart.resources
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\sources\obj\Debug\predicciones.FormMain.resources
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Estudios actuales\ESBA\2 Cuatrimestre\Programación Visual - Carina Quiroga\TP\Horóscopo\sources\obj\Debug\Predicciones.FormAstrologicalChartResult.resources
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\bin\Debug\horoscopo.exe.config
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\bin\Debug\horoscopo.exe
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\bin\Debug\horoscopo.pdb
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\bin\Debug\horoscopo.xml
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\obj\Debug\horoscopo.vbproj.AssemblyReference.cache
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\obj\Debug\Predicciones.FormAstrologicalChartResult.resources
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\obj\Debug\Predicciones.FormMain.resources
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\obj\Debug\Predicciones.FormAstrologicalChart.resources
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\obj\Debug\Predicciones.Resources.resources
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\obj\Debug\horoscopo.vbproj.GenerateResource.cache
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\obj\Debug\horoscopo.vbproj.CoreCompileInputs.cache
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\obj\Debug\horoscopo.vbproj.Up2Date
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\obj\Debug\horoscopo.exe
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\obj\Debug\horoscopo.xml
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\obj\Debug\horoscopo.pdb
+C:\Users\Ivan Camperchioli\Documents\VB.NET_project\sources\obj\Debug\Predicciones.FormSubscriptions.resources
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\bin\Debug\horoscopo.exe.config
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\bin\Debug\horoscopo.exe
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\bin\Debug\horoscopo.pdb
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\bin\Debug\horoscopo.xml
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\obj\Debug\horoscopo.vbproj.AssemblyReference.cache
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\obj\Debug\Predicciones.FormSubscriptions.resources
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\obj\Debug\Predicciones.FormAstrologicalChartResult.resources
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\obj\Debug\Predicciones.FormMain.resources
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\obj\Debug\Predicciones.FormAstrologicalChart.resources
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\obj\Debug\Predicciones.Resources.resources
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\obj\Debug\horoscopo.vbproj.GenerateResource.cache
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\obj\Debug\horoscopo.vbproj.CoreCompileInputs.cache
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\obj\Debug\horoscopo.vbproj.Up2Date
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\obj\Debug\horoscopo.exe
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\obj\Debug\horoscopo.xml
+C:\Users\Ivan Camperchioli\Documents\Sistemas Informáticos\Programming\Lenguajes\vb.NET\projects\horoscopo\sources\obj\Debug\horoscopo.pdb
